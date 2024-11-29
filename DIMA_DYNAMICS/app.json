@@ -1,0 +1,37 @@
+{
+    "id": "5ddacf08-7715-4eb3-b99d-74e44e326558",
+    "name": "DIMA Reportes Proveedor-Compra",
+    "publisher": "DIMA",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "Desarrollado por Marcelo Dávila",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "24.0.0.0",
+    "application": "24.0.16410.17628",
+    "idRanges": [
+        {
+            "from": 90100,
+            "to": 90200
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": false,
+        "allowDownloadingSource": false,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "TranslationFile",
+        "GenerateCaptions"
+    ],
+    "supportedLocales": [
+        "es-ES",
+        "es-MX"
+    ]
+}
